@@ -1,0 +1,7 @@
+{
+	"parent": "anvilcraft:item/anvil_hammer",
+	"textures": {
+		"0": "confluence_anvil_craft:item/lead_anvil_hammer",
+		"particle": "confluence_anvil_craft:item/lead_anvil_hammer"
+	}
+}

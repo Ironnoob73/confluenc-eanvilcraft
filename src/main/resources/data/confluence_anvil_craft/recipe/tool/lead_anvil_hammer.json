@@ -1,0 +1,24 @@
+{
+  "type": "confluence:heavy_work_bench",
+  "key": {
+    "#": {
+      "item": "confluence:lead_anvil"
+    },
+    "/": {
+      "tag": "c:ingots/tin"
+    },
+    "o": {
+      "tag": "c:storage_blocks/lead"
+    }
+  },
+  "pattern": [
+    "   #",
+    "  / ",
+    " /  ",
+    "o   "
+  ],
+  "result": {
+    "count": 1,
+    "id": "confluence_anvil_craft:lead_anvil_hammer"
+  }
+}
